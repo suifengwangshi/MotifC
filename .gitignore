@@ -127,3 +127,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# preprocessing data
+GM12878/*
+GM12878_1/*
+GM12878_2/*
+GM12878_3/*
+GM12878_123/*
+
+# models output
+models/*
+
+# preprocessing file
+data_processing01.py
+data_processing02.py
+data_processing03.py
+data_processing12.py
+data_processing13.py
+data_processing23.py
+data_processing123.py
+
+# hg data
+hg19/*
+
+# convscore data dan other data
+convscore/*
+bigwig/*
